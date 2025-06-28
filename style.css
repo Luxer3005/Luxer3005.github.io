@@ -2,7 +2,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', Arial, sans-serif;
-  background: #000000;
+  background-image: url(fa91c09c8db8c7c16af5754c817d28ab.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
   min-height: 100vh;
 }
